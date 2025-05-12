@@ -1,0 +1,1 @@
+download the safe version cuase uh it works with the sensor at least. I cant get zigbee working i tried to do it in class but I didnt have time. I am going to leave for the next few days with ap testing
